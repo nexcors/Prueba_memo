@@ -1,2 +1,24 @@
 hola mundo
 que tal?
+
+------
+comando para conf de cuenta github
+git config --global user.email guillermocm1998@gmail.com
+git config --global user.name nexcors
+-----
+Comandos para gitHUB
+-> hacer copia del link del archivo 
+-git clone "link del archivo"
+-> se entrea al archivo 
+-git status (nos dice que archivos fueron cambiados)
+
+-git diff (nos dice las diferencias del areas que se tiene del comit *del esteking area*)
+
+-git add "nombre archivo.tipo" se agrega al esteking area
+-git add . (manda todos los archivos al esteking area)
+
+
+-git comit (prepara el mensaje)
+-git comit -m "mensaje" (hace un control de versiones)
+
+-git push (se va al git hub)
